@@ -1,0 +1,22 @@
+{
+    "OrderID": 1324,
+    "Direccion": "Avenida 7 Jefes, Santa Fe",
+    "Estado": "Envío en camino",
+    "Articulos": [
+        {
+            "Nombre": "Notebook  Lenovo IdeaPad",
+            "Cantidad": 1,
+            "Peligroso": true
+        },
+        {
+            "Nombre": "Smartphone Honor X8b",
+            "Cantidad": 2,
+            "Peligroso": true
+        },
+        {
+            "Nombre": "Headphones Telefunken THP-29",
+            "Cantidad": 1,
+            "Peligroso": false
+        }
+    ]
+}
